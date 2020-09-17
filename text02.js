@@ -1,7 +1,6 @@
 function greet(name){
-    console.log('knock knock knock' + name)
-    console.log('knock knock knock' + name)
-    console.log('knock knock knock' + name)
+console.log("hello")
+console.log("use text status")
+console.log("use git evrytime")
 }
-
 greet('prady')
