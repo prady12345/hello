@@ -1,5 +1,3 @@
-function greet(name){
-    console.log('hello' + name)
-}
-
-greet('prady')
+console.log("hello")
+console.log("use text status")
+console.log("use git evrytime")
